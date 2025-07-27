@@ -57,7 +57,7 @@ function Contact() {
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Phone",
-      details: "+1 (555) 123-4567",
+      details: "+91 8460117496",
       description: "Mon-Fri from 8am to 6pm",
       color: "purple"
     },

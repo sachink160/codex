@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ArrowLeft, Calendar, Clock, User, Share2, Twitter, Linkedin, Facebook, Tag } from 'lucide-react';
+import { ArrowLeft, Calendar, Clock, User, Share2, Twitter, Linkedin, Facebook, Tag, ArrowRight } from 'lucide-react';
 
 function BlogPost() {
   const { slug } = useParams();
